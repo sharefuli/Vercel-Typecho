@@ -38,7 +38,7 @@ $db = new Typecho_Db('Pdo_Mysql', 'typecho_');
 $db->addServer(array (
   'host' => 'sql.freedb.tech',
   'user' => 'freedb_vercel',
-  'password' =>'zJftT?6m8T8%*Ba',
+  'password' =>'ZqAMEnv&vaBRkN5',
   'charset' => 'utf8mb4',
   'port' => '3306',
   'database' => 'freedb_vercel',
